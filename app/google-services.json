@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "673606937265",
+    "firebase_url": "https://mechanicratecalculator.firebaseio.com",
+    "project_id": "mechanicratecalculator",
+    "storage_bucket": "mechanicratecalculator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673606937265:android:612d0592fe4e093adb5090",
+        "android_client_info": {
+          "package_name": "com.example.legacymechaniccalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673606937265-ps6hciic794bovbfleiuehklc1ba6chj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASJr--SJfCyfnXACHq3DvbrC-H2SzSp3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673606937265-ps6hciic794bovbfleiuehklc1ba6chj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673606937265:android:c0bb73f4e5a0fc9edb5090",
+        "android_client_info": {
+          "package_name": "com.example.practice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673606937265-ps6hciic794bovbfleiuehklc1ba6chj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASJr--SJfCyfnXACHq3DvbrC-H2SzSp3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673606937265-ps6hciic794bovbfleiuehklc1ba6chj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

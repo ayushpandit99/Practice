@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practice</string>
+    <string name="eno">Enter Value In INR</string>
+    <string name="ed1">Enter Value Here</string>
+
+    <string name="btn">Convert</string>
+    <string name="tv2">Converted Value Dollar is</string>
+</resources>
