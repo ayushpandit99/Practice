@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
                 public void onClick(View v) {
                     Float met=Float.parseFloat(String.valueOf(ed1.getText()));
                     double inc= met/74.67;
-                    tv2.setText("Converted Value In USD IS bots are youuu "+inc);
+                    tv2.setText("Converted Value In USD IS bots are so whatsup "+inc);
 
                 }
             });
